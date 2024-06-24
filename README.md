@@ -2,7 +2,7 @@
 >- ## 부제 : 비트코인의 자산가치 전망
 ## ✅ 주제 선정 배경
 - [📰한겨레 신문](https://www.hani.co.kr/arti/international/international_general/1123909.html)<br>
-
+![image](https://github.com/Ahram-Jeong/data-analysis-project/assets/86512230/b809424a-4525-4210-bf75-d161644e13fb)
 >- 미국의 증권거래위원회(SEC)가 2021년 1월 10일 비트코인을 금융상품으로 인정
 >- 비트코인 상장지수펀드(ETF)를 공식적으로 승인하면서 비트코인이 제도권 금융에 포함되어 짐
 >- 제도권 금융, 즉 법적 토대를 가지고 정부의 인허가에 따라 금융거래가 가능해지게 됨
