@@ -1,5 +1,5 @@
-## 비트코인과 안정자산, 위험자산의 상관관계 분석
->### 부제 : 비트코인의 자산가치 전망
+## 비트코인의 자산가치 전망
+>### 부제 : 비트코인과 안전자산, 위험자산의 상관관계 분석
 #### **1. 프로그래밍 언어**
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
